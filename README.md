@@ -19,42 +19,42 @@ Use Google Colab by clicking on the links below.
 
 Click on the following badge to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-hs2024/blob/main/assignments/00_env_check/env_check.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-ss2024/blob/main/assignments/00_env_check/env_check.ipynb)
 
 
 ### Exercise 01 - Machine Learning Recap
 
 Click on the following badge to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-hs2024/blob/main/assignments/01_ml_recap/machine_learning_recap.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-ss2024/blob/main/assignments/01_ml_recap/machine_learning_recap.ipynb)
 
 
 ### Exercise 02 - PyTorch & Machine Learning
 
 Click on the following badge to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-hs2024/blob/main/assignments/02_pytorch/pytorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-ss2024/blob/main/assignments/02_pytorch/pytorch.ipynb)
 
 
 ### Exercise 03 - Neuronale Netzwerke
 
 Click on the following badge to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-hs2024/blob/main/assignments/03_neural_networks/neural_networks.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-ss2024/blob/main/assignments/03_neural_networks/neural_networks.ipynb)
 
 
 ### Exercise 04 - Convolutional Neural Networks
 
 Click on the following badge to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-hs2024/blob/main/assignments/04_cnns/cnns.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-ss2024/blob/main/assignments/04_cnns/cnns.ipynb)
 
 
 ### Exercise 05 - Image Classification
 
 Click on the following badge to open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-hs2024/blob/main/assignments/05_classification/classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-ss2024/blob/main/assignments/05_classification/classification.ipynb)
 
 
 
@@ -78,7 +78,7 @@ You'll find detailed instructions here: https://docs.docker.com/get-docker
 
 ```
 # pull the image
-docker pull mwilli13/cas-dl-compvis-exercises-hs2024:latest
+docker pull mwilli13/cas-dl-compvis-exercises-ss2024:latest
 ```
 
 ### 3. Fork this repository
@@ -102,7 +102,7 @@ $ docker run -d \
     --user root \
     -v MY_ML_DIR:/home/jovyan/work/ \
     --name=cas_dl_computer_vision_part1 \
-    mwilli13/cas-dl-compvis-exercises-hs2024:latest start.sh jupyter lab --LabApp.token=''
+    mwilli13/cas-dl-compvis-exercises-ss2024:latest start.sh jupyter lab --LabApp.token=''
 ```
 
 ### 6. Check that your container is running
