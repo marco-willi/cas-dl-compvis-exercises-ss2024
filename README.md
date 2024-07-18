@@ -57,6 +57,14 @@ Click on the following badge to open the notebook in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-ss2024/blob/main/assignments/05_classification/classification.ipynb)
 
 
+### Exercise 06 - Image Classification  Practical
+
+Click on the following badge to open the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marco-willi/cas-dl-compvis-exercises-ss2024/blob/main/assignments/06_classification_practical/classification_practical.ipynb)
+
+
+
 
 ## Local - pip (not tested)
 
